@@ -1,23 +1,43 @@
-# Srijan Chaudhary
+<h1 align="center">Srijan Chaudhary</h1>
 
-**Senior Full Stack Developer** | Melbourne, Australia
+<p align="center">
+  <strong>Senior Full Stack Developer</strong> · Melbourne, Australia
+</p>
 
-I modernize legacy systems and build scalable web architectures.
-Specialized in desktop app development using C++, Rust, and Laravel.
+<p align="center">
+  <a href="https://linkedin.com/in/srijanchaudhary"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://stackoverflow.com/users/3817656"><img src="https://img.shields.io/badge/-StackOverflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+</p>
 
 ---
 
+I modernize legacy systems and build scalable desktop architectures.
+Specialized in desktop app development using **C++**, **Rust**, and **Laravel**.
+
 ### What I Do
 
-- Architect end-to-end system migrations (desktop → web)
-- Build API validation layers in Rust for cross-system reliability
-- Optimize database performance and CI/CD pipelines
+```text
+System Migration     ████████████████████   Desktop → Web architectures
+API Development      ████████████████████   Rust validation layers for reliability
+Performance          ████████████████████   Database optimization & CI/CD pipelines
+```
 
 ### Tech Stack
 
-**Languages:** C++ · Rust · PHP · Python · JavaScript
-**Frameworks:** Qt · Laravel · Django
-**Infrastructure:** Docker · GitHub Actions · AWS
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+</p>
 
 ### Currently
 
@@ -27,10 +47,5 @@ Specialized in desktop app development using C++, Rust, and Laravel.
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srijanc&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srijanc&show_icons=true&theme=default&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
-
----
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/srijanchaudhary)
-[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3817656)
