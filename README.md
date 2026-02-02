@@ -47,5 +47,5 @@ Performance          ███████████████████�
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srijanc&show_icons=true&theme=default&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srijanc&theme=github-light&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
